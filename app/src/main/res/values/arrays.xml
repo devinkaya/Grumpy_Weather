@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listArray">
+        <item>None</item>
+        <item>Vulgarity with Insults</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="TempArray">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="TempValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="LangArray">
+        <item>English</item>
+        <item>Turkish</item>
+    </string-array>
+
+    <string-array name="LangValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="FormatArray">
+        <item>Hourly</item>
+        <item>Daily</item>
+        <item>None</item>
+    </string-array>
+
+    <string-array name="FormatValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

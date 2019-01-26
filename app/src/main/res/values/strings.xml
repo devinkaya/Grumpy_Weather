@@ -1,0 +1,822 @@
+<resources>
+    <string name="app_name">Angry Weather</string>
+
+
+    <string name="API_KEY" translatable="false">2dfd61501b25b0d5f7c4fb86b3c493de</string>
+   
+   
+    <string-array name="Very_Cold_2xx">
+        <item>OH LIKE THIS FUCKED UP COLD ISN\'T ENOUGH, WE GET THUNDERSTORMS TOO! FUUUCK!</item>
+        <item>FUCK FUCK FUCK FUUUUUUUUCK!</item>
+        <item>Can\'t you like sell your soul to escape this fucking weather?</item>
+    </string-array>
+    <string-array name="Cold_2xx">
+        <item>Great fucking Weather! Freeze your balls off and get hit by lightning.</item>
+        <item>Normally thunderstorms are terrible enough, but you get to Freeze your ass too!</item>
+        <item>Those thunderstorm could give you great pics&#8230; and frostbite for your fingers.</item>
+        <item>I can\'t even&#8230; Just uninstall me.</item>
+        <item>Scream "It\'s FUCKING COLD!!" every time lightning strikes, it might help.</item>
+        <item>Thunderstorms might look cool when it\'s this cold outside&#8230;Still Sucks though</item>
+    </string-array>
+    <string-array name="Average_2xx">
+        <item>I wouldn\'t go out if I were you.</item>
+        <item>Have you been struck by lightning before? Go outside.</item>
+        <item>Want to go out and fly a kite? Might be fun&#8230;</item>
+        <item>I can\'t even&#8230; Just uninstall me.</item>
+        <item>Thunderstorms might look cool&#8230; The weather still Sucks though</item>
+    </string-array>
+    <string-array name="Hot_2xx">
+        <item>At least it\'s not cold&#8230; BUT WHY THUNDER??</item>
+        <item>Have you been struck by lightning before? Go outside.</item>
+        <item>Want to go out and fly a kite? Might be fun&#8230;</item>
+        <item>I can\'t even&#8230; Just uninstall me.</item>
+        <item>You thought since it\'s warm you might go outside&#8230; Think again, dipshit.</item>
+    </string-array>
+    <string-array name="Very_Hot_2xx">
+        <item>HOW? HOW CAN IT BE THIS HOT WITH THUNDERSTORMS?</item>
+        <item>If you didn\'t sweat enough from the heat, that thunderstorm might help you.</item>
+        <item>Wanna watch "Tropic Thunder"? Look outside. *BA-DUM TISS* GOODNIGHT EVERYONE!</item>
+    </string-array>
+    <!--thunderstorms-->
+    <array name="Quote_2xx">
+        <item>@array/Very_Cold_2xx</item>
+        <item>@array/Cold_2xx</item>
+        <item>@array/Average_2xx</item>
+        <item>@array/Hot_2xx</item>
+        <item>@array/Very_Hot_2xx</item>
+    </array>
+    <!--Drizzle-->
+     <string-array name="Very_Cold_3xx">
+        <item>How can it drizzle when it\'s this cold? It makes no sense.</item>
+         <item>Guess who should consider moving somewhere warmer?</item>
+         <item>HOW can it be colder than the freezer??</item>
+         <item>Fucking fuck fuck fuck, it\'s cold.</item>
+         <item>Hope your igloo doesn\'t melt when its warmer.</item>
+         <item>Want to escape the cold? FUCKIN\' MOVE.</item>
+         <item>If you get this weather frequently, its ok to be an Alcoholic.</item>
+         <item>I hope your salary is good enough to endure this fucked up weather.</item>
+         <item>How can you go outside at this cold??</item>
+         <item>Warning: DON\'T GO OUTSIDE!</item>
+         <item>I can\'t believe a Whitewalker uses this app.</item>
+         <item>You know that Winter Jon Snow explains in GOT. Look outside.</item>
+         <item>You know you can fuckin\' die if you stay outside.</item>
+     </string-array>
+    <string-array name="Cold_3xx">
+        <item>Like the cold wasn\'t enough now you get cloud piss on your face.</item>
+        <item>I mean C\'mon. If it\'s gonna rain it should rain. Not drizzle like a bitch.</item>
+        <item>If you want tiny raindrops to hit your face while freezing, today is your day!</item>
+    </string-array>
+    <string-array name="Average_3xx">
+        <item>I mean C\'mon. If it\'s gonna rain it should rain. Not drizzle like a bitch.</item>
+        <item>Talk about piss weather, huh?</item>
+        <item>Even the fucking rain isn\'t real rain</item>
+        <item>Like life wasn\'t hard enough, now you get cloud piss on your face.</item>
+    </string-array>
+    <string-array name="Hot_3xx">
+        <item>I mean C\'mon. If it\'s gonna rain it should rain. Not drizzle like a bitch.</item>
+        <item>If that fucking drizzle didn't exist, I would call this "bearable" weather.</item>
+        <item>Even the fucking rain isn\'t real rain</item>
+        <item>Like life wasn\'t hard enough, now you get cloud piss on your face.</item>
+    </string-array>
+    <string-array name="Very_Hot_3xx">
+        <item>I mean C\'mon. If it\'s gonna rain it should rain. Not drizzle like a bitch.</item>
+        <item>Let\'s pray that fucking drizzle turns into rain so we can cool off.</item>
+        <item>You sure the phone won\'t melt?</item>
+        <item>I seriously hope you have AC&#8230; or a fridge.</item>
+        <item>I can\'t imagine how the bus will smell with this heat.</item>
+        <item>All aboard the Sweat Train!! Choo Choo Motherfuckers!</item>
+        <item>You smell like sweat&#8230;</item>
+        <item>Why is it so hard to fucking breath??</item>
+        <item>It\'s too hot to work. Stay at home you lazy fuck.</item>
+        <item>If you hadn\'t sinned so much, you wouldn\'t be in hell.</item>
+        <item>Why burn in hell when people can just go outside?</item>
+        <item>Have you ever felt sweat drip to your ass-crack? Stay outside and experience it.</item>
+        <item>You know this phone\'s circuits will melt at this weather, right?</item>
+        <item>Some things are too hot to touch today: The ground, the rocks, the air.</item>
+        <item>You better drink water to combat this fucked up heat</item>
+    </string-array>
+    <array name="Quote_3xx">
+        <item>@array/Very_Cold_3xx</item>
+        <item>@array/Cold_3xx</item>
+        <item>@array/Average_3xx</item>
+        <item>@array/Hot_3xx</item>
+        <item>@array/Very_Hot_3xx</item>
+    </array>
+
+    <!--Light_Rain-->
+    <string-array name="Very_Cold_501_502">
+        <item>Guess who should consider moving somewhere warmer?</item>
+        <item>HOW can it be colder than the freezer??</item>
+        <item>Fucking fuck fuck fuck, it\'s cold.</item>
+        <item>Hope your igloo doesn\'t melt when its warmer.</item>
+        <item>Want to escape the cold? FUCKIN\' MOVE.</item>
+        <item>If you get this weather frequently, its ok to be an Alcoholic.</item>
+        <item>I hope your salary is good enough to endure this fucked up weather.</item>
+        <item>How can you go outside at this cold??</item>
+        <item>Warning: DON\'T GO OUTSIDE!</item>
+        <item>I can\'t believe a Whitewalker uses this app.</item>
+        <item>You know that Winter Jon Snow explains in GOT. Look outside.</item>
+        <item>You know you can fuckin\' die if you stay outside.</item>
+    </string-array>
+    <string-array name="Cold_501_502">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-spouses out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Average_501_502">
+        <item>Fucking Rain&#8230; Do I need to say anything else?</item>
+        <item>I seriously hope you have an umbrella.</item>
+        <item>Please tell me your phone is water resistant.</item>
+        <item>Your socks will most likely get wet today.</item>
+        <item>Well&#8230; shit.</item>
+    </string-array>
+    <string-array name="Hot_501_502">
+        <item>Fucking Rain&#8230; Do I need to say anything else?</item>
+        <item>I seriously hope you have an umbrella.</item>
+        <item>Please tell me your phone is water resistant.</item>
+        <item>Your socks will most likely get wet today.</item>
+        <item>Well&#8230; shit.</item>
+    </string-array>
+    <string-array name="Very_Hot_501_502">
+        <item>The Weather is Clear</item>
+        <item>The Weather is Super Clear</item>
+        <item>The Sky is as clear as your Sex Life</item>
+        <item>You sure the phone won\'t melt?</item>
+        <item>I seriously hope you have AC&#8230; or a fridge.</item>
+        <item>I can\'t imagine how the bus will smell with this heat.</item>
+        <item>All aboard the Sweat Train!! Choo Choo Motherfuckers!</item>
+        <item>You smell like sweat&#8230;</item>
+        <item>Why is it so hard to fucking breath??</item>
+        <item>It\'s too hot to work. Stay at home you lazy fuck.</item>
+        <item>If you hadn\'t sinned so much, you wouldn\'t be in hell.</item>
+        <item>Why burn in hell when people can just go outside?</item>
+        <item>Have you ever felt sweat drip to your ass-crack? Stay outside and experience it.</item>
+        <item>You know this phone\'s circuits will melt at this weather, right?</item>
+        <item>Some things are too hot to touch today: The ground, the rocks, the air.</item>
+        <item>You better drink water to combat this fucked up heat</item>
+    </string-array>
+    <array name="Quote_501_502">
+        <item>@array/Very_Cold_501_502</item>
+        <item>@array/Cold_501_502</item>
+        <item>@array/Average_501_502</item>
+        <item>@array/Hot_501_502</item>
+        <item>@array/Very_Hot_501_502</item>
+    </array>
+
+    <!--Rain-->
+    <string-array name="Very_Cold_50x">
+        <item>Guess who should consider moving somewhere warmer?</item>
+        <item>HOW can it be colder than the freezer??</item>
+        <item>Fucking fuck fuck fuck, it\'s cold.</item>
+        <item>Hope your igloo doesn\'t melt when its warmer.</item>
+        <item>Want to escape the cold? FUCKIN\' MOVE.</item>
+        <item>If you get this weather frequently, its ok to be an Alcoholic.</item>
+        <item>I hope your salary is good enough to endure this fucked up weather.</item>
+        <item>How can you go outside at this cold??</item>
+        <item>Warning: DON\'T GO OUTSIDE!</item>
+        <item>I can\'t believe a Whitewalker uses this app.</item>
+        <item>You know that Winter Jon Snow explains in GOT. Look outside.</item>
+        <item>You know you can fuckin\' die if you stay outside.</item>
+    </string-array>
+    <string-array name="Cold_50x">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Average_50x">
+        <item>Fucking Rain&#8230; Do I need to say anything else?</item>
+        <item>I seriously hope you have an umbrella.</item>
+        <item>Please tell me your phone is water resistant.</item>
+        <item>Your socks will most likely get wet today.</item>
+        <item>Well&#8230; shit.</item>
+    </string-array>
+    <string-array name="Hot_50x">
+        <item>Fucking Rain&#8230; Do I need to say anything else?</item>
+        <item>I seriously hope you have an umbrella.</item>
+        <item>Please tell me your phone is water resistant.</item>
+        <item>Your socks will most likely get wet today.</item>
+        <item>Well&#8230; shit.</item>
+    </string-array>
+    <string-array name="Very_Hot_50x">
+        <item>Isn\'t the rain supposed to make the weather cooler??</item>
+        <item>Wow, what kind of fucked up climate do you have?</item>
+        <item>You should go outside with your swimsuit. I promise, you won't look like an idiot.</item>
+    </string-array>
+    <array name="Quote_50x">
+        <item>@array/Very_Cold_50x</item>
+        <item>@array/Cold_50x</item>
+        <item>@array/Average_50x</item>
+        <item>@array/Hot_50x</item>
+        <item>@array/Very_Hot_50x</item>
+    </array>
+    <!--Heavy Rain-->
+    <string-array name="Very_Cold_52x">
+        <item>Guess who should consider moving somewhere warmer?</item>
+        <item>HOW can it be colder than the freezer??</item>
+        <item>Fucking fuck fuck fuck, it\'s cold.</item>
+        <item>Hope your igloo doesn\'t melt when its warmer.</item>
+        <item>Want to escape the cold? FUCKIN\' MOVE.</item>
+        <item>If you get this weather frequently, its ok to be an Alcoholic.</item>
+        <item>I hope your salary is good enough to endure this fucked up weather.</item>
+        <item>How can you go outside at this cold??</item>
+        <item>Warning: DON\'T GO OUTSIDE!</item>
+        <item>I can\'t believe a Whitewalker uses this app.</item>
+        <item>You know that Winter Jon Snow explains in GOT. Look outside.</item>
+        <item>You know you can fuckin\' die if you stay outside.</item>
+    </string-array>
+    <string-array name="Cold_52x">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Average_52x">
+        <item>Fucking Rain&#8230; Do I need to say anything else?</item>
+        <item>I seriously hope you have an umbrella.</item>
+        <item>Please tell me your phone is water resistant.</item>
+        <item>Your socks will most likely get wet today.</item>
+        <item>Well&#8230; shit.</item>
+    </string-array>
+    <string-array name="Hot_52x">
+        <item>Fucking Rain&#8230; Do I need to say anything else?</item>
+        <item>I seriously hope you have an umbrella.</item>
+        <item>Please tell me your phone is water resistant.</item>
+        <item>Your socks will most likely get wet today.</item>
+        <item>Well&#8230; shit.</item>
+    </string-array>
+    <string-array name="Very_Hot_52x">
+        <item>Isn\'t the rain supposed to make the weather cooler??</item>
+        <item>Wow, what kind of fucked up climate do you have?</item>
+        <item>You should go outside with your swimsuit. I promise, you won't look like an idiot.</item>
+    </string-array>
+    <array name="Quote_52x">
+        <item>@array/Very_Cold_52x</item>
+        <item>@array/Cold_52x</item>
+        <item>@array/Average_52x</item>
+        <item>@array/Hot_52x</item>
+        <item>@array/Very_Hot_52x</item>
+    </array>
+    <!--Freezing Rain-->
+    <array name="Quote_511">
+        <item>@array/Only_511</item>
+    </array>
+    <string-array name="Only_511">
+        <item>Freezing rain? HAH! Like Rain couldn\'t get worse.</item>
+    </string-array>
+    <!--Snow-->
+    <string-array name="Very_Cold_6xx">
+        <item>Guess who should consider moving somewhere warmer?</item>
+        <item>HOW can it be colder than the freezer??</item>
+        <item>Fucking fuck fuck fuck, it\'s cold.</item>
+        <item>Hope your igloo doesn\'t melt when its warmer.</item>
+        <item>Want to escape the cold? FUCKIN\' MOVE.</item>
+        <item>If you get this weather frequently, its ok to be an Alcoholic.</item>
+        <item>I hope your salary is good enough to endure this fucked up weather.</item>
+        <item>How can you go outside at this cold??</item>
+        <item>Warning: DON\'T GO OUTSIDE!</item>
+        <item>I can\'t believe a Whitewalker uses this app.</item>
+        <item>You know that Winter Jon Snow explains in GOT. Look outside.</item>
+        <item>You know you can fuckin\' die if you stay outside.</item>
+        <item>If you slip outside and drop me, i\'ll be even more pissed.</item>
+    </string-array>
+    <string-array name="Cold_6xx">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Average_6xx">
+        <item>Snow&#8230; It\'s not magical, it\'s annoying.</item>
+        <item>Wow, it\'s whiter than a Taylor Swift concert outside.</item>
+        <item>If anyone says "The Snow is beautiful." today, punch them in their face.</item>
+        <item>I can't believe i miss the fucking rain.</item>
+        <item>I swear, if i break when you slip and fall, i'll put some serious stress on your RAM.</item>
+    </string-array>
+    <string-array name="Hot_6xx">
+        <item>Yea, something is seriously wrong. I mean, warm snow. HOW????</item>
+        <item>Congratulations, you are on a foreign planet where nothing makes sense</item>
+    </string-array>
+    <string-array name="Very_Hot_6xx">
+    <item>Yea, something is seriously wrong. I mean, hot snow. HOW????</item>
+    <item>Congratulations, you are on a foreign planet where nothing makes sense</item>
+    </string-array>
+    <array name="Quote_6xx">
+        <item>@array/Very_Cold_6xx</item>
+        <item>@array/Cold_6xx</item>
+        <item>@array/Average_6xx</item>
+        <item>@array/Hot_6xx</item>
+        <item>@array/Very_Hot_6xx</item>
+    </array>
+    <!--Atmosphere-->
+    <string-array name="Very_Cold_7xx">
+        <item>Guess who should consider moving somewhere warmer?</item>
+        <item>HOW can it be colder than the freezer??</item>
+        <item>Fucking fuck fuck fuck, it\'s cold.</item>
+        <item>Hope your igloo doesn\'t melt when its warmer.</item>
+        <item>Want to escape the cold? FUCKIN\' MOVE.</item>
+        <item>If you get this weather frequently, its ok to be an Alcoholic.</item>
+        <item>I hope your salary is good enough to endure this fucked up weather.</item>
+        <item>How can you go outside at this cold??</item>
+        <item>Warning: DON\'T GO OUTSIDE!</item>
+        <item>I can\'t believe a Whitewalker uses this app.</item>
+        <item>You know that Winter Jon Snow explains in GOT. Look outside.</item>
+        <item>You know you can fuckin\' die if you stay outside.</item>
+    </string-array>
+    <string-array name="Cold_7xx">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Average_7xx">
+        <item>Meh&#8230; It could be warmer you know.</item>
+        <item>At least it\'s not raining&#8230; Yet.</item>
+        <item>At least it\'s hotter than your freezer outside&#8230; that\'s good.</item>
+        <item>I mean, it could be worse but it\'s not a good day either.</item>
+        <item>You know there are children in Africa who have WAY better weather.</item>
+        <item>Guess which motherfucker will be stuck.</item>
+    </string-array>
+    <string-array name="Hot_7xx">
+        <item>Yay! It\'s warm but not too much. This is the only happy message in this app.</item>
+        <item>FUCKING GOD DAMN FINALLY!!! GOOD WEATHER!</item>
+        <item>Social people would enjoy the outdoors today&#8230; not you obviously.</item>
+        <item>Look outside! See it\'s beautiful. Like the opposite of the mirror.</item>
+        <item>Aww Fuck yes! The weather is not diabolical!</item>
+        <item>The weather is so nice that I hate you slightly less today.</item>
+        <item>How about doing something outside today, you lazy fuck?</item>
+        <item>Your balls wont freeze off or boil away today. Congrats.</item>
+        <item>QUICK! Take 200 pics to put on Instagram during winter. #tbt</item>
+        <item>FUCKING SHIT FU&#8230; No it\'s fine&#8230; False Alarm. It\'s ok outside.</item>
+    </string-array>
+    <string-array name="Very_Hot_7xx">
+        <item>You sure the phone won\'t melt?</item>
+        <item>I seriously hope you have AC&#8230; or a fridge.</item>
+        <item>I can\'t imagine how the bus will smell with this heat.</item>
+        <item>All aboard the Sweat Train!! Choo Choo Motherfuckers!</item>
+        <item>You smell like sweat&#8230;</item>
+        <item>Why is it so hard to fucking breath??</item>
+        <item>It\'s too hot to work. Stay at home you lazy fuck.</item>
+        <item>If you hadn\'t sinned so much, you wouldn\'t be in hell.</item>
+        <item>Why burn in hell when people can just go outside?</item>
+        <item>Have you ever felt sweat drip to your ass-crack? Stay outside and experience it.</item>
+        <item>You know this phone\'s circuits will melt at this weather, right?</item>
+        <item>Some things are too hot to touch today: The ground, the rocks, the air.</item>
+        <item>You better drink water to combat this fucked up heat</item>
+    </string-array>
+    <array name="Quote_7xx">
+        <item>@array/Very_Cold_7xx</item>
+        <item>@array/Cold_7xx</item>
+        <item>@array/Average_7xx</item>
+        <item>@array/Hot_7xx</item>
+        <item>@array/Very_Hot_7xx</item>
+    </array>
+    <!--Volcanic Ash-->
+    <array name="Quote_771">
+        <item>@array/Only_771</item>
+    </array>
+    <string-array name="Only_771">
+        <item>Seriously? Volcanic Ash??</item>
+        <item>WHY do you live so close to a volcano??</item>
+        <item>I do not understand why you would live next to a fucking Volcano.</item>
+        <item>Should have bought that Volcano Insurance.</item>
+        <item>I\'m sorry for everything I said. Please, don\'t throw me in the Volcano.</item>
+    </string-array>
+    <!--Tornado-->
+    <array name="Quote_781">
+        <item>@array/Only_781</item>
+    </array>
+    <string-array name="Only_781">
+        <item>Stay inside somewhere that is Tornado proof.</item>
+        <item>Remember that movie "Twister"? Look outside.</item>
+        <item>Really? A FUCKING TORNADO???</item>
+    </string-array>
+    <!--Clear-->
+    <string-array name="Very_Cold_800">
+        <item>Guess who should consider moving somewhere warmer?</item>
+        <item>HOW can it be colder than the freezer??</item>
+        <item>Fucking fuck fuck fuck, it\'s cold.</item>
+        <item>Hope your igloo doesn\'t melt when its warmer.</item>
+        <item>Want to escape the cold? FUCKIN\' MOVE.</item>
+        <item>If you get this weather frequently, its ok to be an Alcoholic.</item>
+        <item>I hope your salary is good enough to endure this fucked up weather.</item>
+        <item>How can you go outside at this cold??</item>
+        <item>Warning: DON\'T GO OUTSIDE!</item>
+        <item>I can\'t believe a Whitewalker uses this app.</item>
+        <item>You know that Winter Jon Snow explains in GOT. Look outside.</item>
+        <item>You know you can fuckin\' die if you stay outside.</item>
+    </string-array>
+    <string-array name="Cold_800">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Average_800">
+        <item>Meh&#8230; It could be warmer you know.</item>
+        <item>At least it\'s not raining&#8230; Yet.</item>
+        <item>At least it\'s hotter than your freezer outside&#8230; that\'s good.</item>
+        <item>I mean, it could be worse but it\'s not a good day either.</item>
+        <item>You know there are children in Africa who have WAY better weather.</item>
+        <item>At least the weather is clear, like your love life.</item>
+    </string-array>
+    <string-array name="Hot_800">
+        <item>Yay! It\'s warm but not too much. This is the only happy message in this app.</item>
+        <item>FUCKING GOD DAMN FINALLY!!! GOOD WEATHER!</item>
+        <item>Social people would enjoy the outdoors today&#8230; not you obviously.</item>
+        <item>Look outside! See it\'s beautiful. Like the opposite of the mirror.</item>
+        <item>Aww Fuck yes! The weather is not diabolical!</item>
+        <item>The weather is so nice that I hate you slightly less today.</item>
+        <item>How about doing something outside today, you lazy fuck?</item>
+        <item>Your balls wont freeze off or boil away today. Congrats.</item>
+        <item>QUICK! Take 200 pics to put on Instagram during winter. #tbt</item>
+        <item>FUCKING SHIT FU&#8230; No it\'s fine&#8230; False Alarm. It\'s ok outside.</item>
+    </string-array>
+    <string-array name="Very_Hot_800">
+        <item>You sure the phone won\'t melt?</item>
+        <item>I seriously hope you have AC&#8230; or a fridge.</item>
+        <item>I can\'t imagine how the bus will smell with this heat.</item>
+        <item>All aboard the Sweat Train!! Choo Choo Motherfuckers!</item>
+        <item>You smell like sweat&#8230;</item>
+        <item>Why is it so hard to fucking breath??</item>
+        <item>It\'s too hot to work. Stay at home you lazy fuck.</item>
+        <item>If you hadn\'t sinned so much, you wouldn\'t be in hell.</item>
+        <item>Why burn in hell when people can just go outside?</item>
+        <item>Have you ever felt sweat drip to your ass-crack? Stay outside and experience it.</item>
+        <item>You know this phone\'s circuits will melt at this weather, right?</item>
+        <item>Some things are too hot to touch today: The ground, the rocks, the air.</item>
+        <item>You better drink water to combat this fucked up heat</item>
+    </string-array>
+    <array name="Quote_800">
+        <item>@array/Very_Cold_800</item>
+        <item>@array/Cold_800</item>
+        <item>@array/Average_800</item>
+        <item>@array/Hot_800</item>
+        <item>@array/Very_Hot_800</item>
+    </array>
+    <!--Few clouds-->
+    <string-array name="Very_Cold_801_802">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Cold_801_802">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+    </string-array>
+    <string-array name="Average_801_802">
+        <item>Meh&#8230; It could be warmer you know.</item>
+        <item>At least it\'s not raining&#8230; Yet.</item>
+        <item>At least it\'s hotter than your freezer outside&#8230; that\'s good.</item>
+        <item>I mean, it could be worse but it\'s not a good day either.</item>
+        <item>You know there are children in Africa who have WAY better weather.</item>
+        <item>At least the weather is clear, like your love life.</item>
+    </string-array>
+    <string-array name="Hot_801_802">
+        <item>Yay! It\'s warm but not too much. This is the only happy message in this app.</item>
+        <item>FUCKING GOD DAMN FINALLY!!! GOOD WEATHER!</item>
+        <item>Social people would enjoy the outdoors today&#8230; not you obviously.</item>
+        <item>Look outside! See it\'s beautiful. Like the opposite of the mirror.</item>
+        <item>Aww Fuck yes! The weather is not diabolical!</item>
+        <item>The weather is so nice that I hate you slightly less today.</item>
+        <item>How about doing something outside today, you lazy fuck?</item>
+        <item>Your balls wont freeze off or boil away today. Congrats.</item>
+        <item>QUICK! Take 200 pics to put on Instagram during winter. #tbt</item>
+        <item>FUCKING SHIT FU&#8230; No it\'s fine&#8230; False Alarm. It\'s ok outside.</item>
+    </string-array>
+    <string-array name="Very_Hot_801_802">
+        <item>You sure the phone won\'t melt?</item>
+        <item>I seriously hope you have AC&#8230; or a fridge.</item>
+        <item>I can\'t imagine how the bus will smell with this heat.</item>
+        <item>All aboard the Sweat Train!! Choo Choo Motherfuckers!</item>
+        <item>You smell like sweat&#8230;</item>
+        <item>Why is it so hard to fucking breath??</item>
+        <item>It\'s too hot to work. Stay at home you lazy fuck.</item>
+        <item>If you hadn\'t sinned so much, you wouldn\'t be in hell.</item>
+        <item>Why burn in hell when people can just go outside?</item>
+        <item>Have you ever felt sweat drip to your ass-crack? Stay outside and experience it.</item>
+        <item>You know this phone\'s circuits will melt at this weather, right?</item>
+        <item>Some things are too hot to touch today: The ground, the rocks, the air.</item>
+        <item>You better drink water to combat this fucked up heat</item>
+    </string-array>
+    <array name="Quote_801_802">
+        <item>@array/Very_Cold_801_802</item>
+        <item>@array/Cold_801_802</item>
+        <item>@array/Average_801_802</item>
+        <item>@array/Hot_801_802</item>
+        <item>@array/Very_Hot_801_802</item>
+    </array>
+    <!--Lots o Clouds-->
+    <string-array name="Very_Cold_80x">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+        <item>Holy fucking shit balls! It\'s cold.</item>
+    </string-array>
+    <string-array name="Cold_80x">
+        <item>WHY does it have to be so cold??</item>
+        <item>Don\'t forget to wear a jacket and 23 other layers for this fucked up cold</item>
+        <item>At least, You don\'t have to worry about your ice-cream melting in this weather.</item>
+        <item>Did you ever missed the cold? I bet you regret that huh.</item>
+        <item>Beautiful weather huh? &#8230;Nah, im just fucking with you. It\'s shit.</item>
+        <item>It\'s a "I can\'t feel my fucking fingers" kind of a day.</item>
+        <item>I can\'t feel my face when i\'m outside &#8230; And I hate it.</item>
+        <item>Imagine the exact opposite of a nice warm day. That\'s today.</item>
+        <item>If you have balls, they are about to freeze off. You have been warned.</item>
+        <item>Surprise!! It\'s cold again!</item>
+        <item>If you ever said you miss the cold, here you go dipshit!</item>
+        <item>I\'m so glad I can\'t feel the cold in this phone. You are fucked!</item>
+        <item>It will be warm again&#8230; but definitely not today.</item>
+        <item>Today\'s weather: Air that hurts your face.</item>
+        <item>It\'s colder than two ex-wives out there.</item>
+    </string-array>
+    <string-array name="Average_80x">
+        <item>Meh&#8230; It could be warmer you know.</item>
+        <item>At least it\'s not raining&#8230; Yet.</item>
+        <item>At least it\'s hotter than your freezer outside&#8230; that\'s good.</item>
+        <item>I mean, it could be worse but it\'s not a good day either.</item>
+        <item>You know there are children in Africa who have WAY better weather.</item>
+        <item>At least the weather is clear, like your love life.</item>
+    </string-array>
+    <string-array name="Hot_80x">
+        <item>Yay! It\'s warm but not too much. This is the only happy message in this app.</item>
+        <item>FUCKING GOD DAMN FINALLY!!! GOOD WEATHER!</item>
+        <item>Social people would enjoy the outdoors today&#8230; not you obviously.</item>
+        <item>Look outside! See it\'s beautiful. Like the opposite of the mirror.</item>
+        <item>Aww Fuck yes! The weather is not diabolical!</item>
+        <item>The weather is so nice that I hate you slightly less today.</item>
+        <item>How about doing something outside today, you lazy fuck?</item>
+        <item>Your balls wont freeze off or boil away today. Congrats.</item>
+        <item>QUICK! Take 200 pics to put on Instagram during winter. #tbt</item>
+        <item>FUCKING SHIT FU&#8230; No it\'s fine&#8230; False Alarm. It\'s ok outside.</item>
+    </string-array>
+    <string-array name="Very_Hot_80x">
+        <item>Well those clouds didn't do shit for the heat.</item>
+        <item>You sure the phone won\'t melt?</item>
+        <item>I seriously hope you have AC&#8230; or a fridge.</item>
+        <item>I can\'t imagine how the bus will smell with this heat.</item>
+        <item>All aboard the Sweat Train!! Choo Choo Motherfuckers!</item>
+        <item>You smell like sweat&#8230;</item>
+        <item>Why is it so hard to fucking breath??</item>
+        <item>It\'s too hot to work. Stay at home you lazy fuck.</item>
+        <item>If you hadn\'t sinned so much, you wouldn\'t be in hell.</item>
+        <item>Why burn in hell when people can just go outside?</item>
+        <item>Have you ever felt sweat drip to your ass-crack? Stay outside and experience it.</item>
+        <item>You know this phone\'s circuits will melt at this weather, right?</item>
+        <item>Some things are too hot to touch today: The ground, the rocks, the air.</item>
+        <item>You better drink water to combat this fucked up heat</item>    </string-array>
+    <array name="Quote_80x">
+        <item>@array/Very_Cold_80x</item>
+        <item>@array/Cold_80x</item>
+        <item>@array/Average_80x</item>
+        <item>@array/Hot_80x</item>
+        <item>@array/Very_Hot_80x</item>
+    </array>
+
+    <string-array name="conditions">
+        <item>Thunderstorm with Light Rain</item>
+        <item>Thunderstorm with Rain</item>
+        <item>Thunderstorm with Heavy Rain</item>
+        <item>Light Thunderstorm</item>
+        <item>Thunderstorm</item>
+        <item>Heavy Thunderstorm</item>
+        <item>Ragged Thunderstorm</item>
+        <item>Thunderstorm with Light Drizzle</item>
+        <item>Thunderstorm with Drizzle</item>
+        <item>Thunderstorm with Heavy Drizzle</item>
+        <item>Light Intensity Drizzle</item>
+        <item>Drizzle</item>
+        <item>Heavy Intensity Drizzle</item>
+        <item>Light Intensity Drizzle</item>
+        <item>Shower Rain and Drizzle</item>
+        <item>Heavy Intensity Drizzle Rain</item>
+        <item>Shower Rain and Drizzle</item>
+        <item>Heavy Shower Rain and Drizzle</item>
+        <item>Shower Drizzle</item>
+        <item>Light Rain</item>
+        <item>Moderate Rain</item>
+        <item>Heavy Intensity Rain</item>
+        <item>Very Heavy Rain</item>
+        <item>Extreme Rain</item>
+        <item>Freezing Rain</item>
+        <item>Light Intensity Shower Rain</item>
+        <item>Shower Rain</item>
+        <item>Heavy Intensity Shower Rain</item>
+        <item>Ragged Shower Rain</item>
+        <item>Light Snow</item>
+        <item>Snow</item>
+        <item>Heavy Snow</item>
+        <item>Sleet</item>
+        <item>Shower Sleet</item>
+        <item>Light Rain and Snow</item>
+        <item>Rain and Snow</item>
+        <item>Light Shower Snow</item>
+        <item>Shower Snow</item>
+        <item>Heavy Shower Snow</item>
+        <item>Mist</item>
+        <item>Smoke</item>
+        <item>Haze</item>
+        <item>Sand, Dust Whirls</item>
+        <item>Fog</item>
+        <item>Sand</item>
+        <item>Dust</item>
+        <item>Volcanic Ash</item>
+        <item>Squalls</item>
+        <item>Tornado</item>
+        <item>Clear Sky</item>
+        <item>Few Clouds</item>
+        <item>Scattered Clouds</item>
+        <item>Broken Clouds</item>
+        <item>Overcast Clouds</item>
+    </string-array>
+
+    <string-array name="condition_ids">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>221</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>321</item>
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>511</item>
+        <item>520</item>
+        <item>521</item>
+        <item>522</item>
+        <item>531</item>
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>611</item>
+        <item>612</item>
+        <item>615</item>
+        <item>616</item>
+        <item>620</item>
+        <item>621</item>
+        <item>622</item>
+        <item>701</item>
+        <item>711</item>
+        <item>721</item>
+        <item>731</item>
+        <item>741</item>
+        <item>751</item>
+        <item>761</item>
+        <item>762</item>
+        <item>771</item>
+        <item>781</item>
+        <item>800</item>
+        <item>801</item>
+        <item>802</item>
+        <item>803</item>
+        <item>804</item>
+    </string-array>
+
+    <string-array name="Kelvin_Quotes">
+        <item>Look who is trying to be fancy by using Kelvin.</item>
+        <item>OK seriously, no one uses Kelvin. Change it back.</item>
+        <item>What kind of a douchebag uses Kelvin for the Weather?</item>
+        <item>Stop being a cunt and turn the temperature back to the right way, or Fahrenheit.</item>
+        <item>You are not smart for using Kelvin.</item>
+        <item>Look at me. I use Kelvin. Oh la la&#8230; That\'s you.</item>
+        <item>You know how I know you are a Virgin, you use Kelvin.</item>
+        <item>OK joke\'s over. Don\'t use Kelvin.</item>
+        <item>You realize that Kelvin is an option as a joke.</item>
+        <item>You are using Kelvin. This is why no one likes you.</item>
+        <item>Guess who is a Dick who also uses Kelvin for the weather? It\'s rhetorical.</item>
+    </string-array>
+
+    <string name="Splash_Title">Welcome!</string>
+    <string name="Splash_Desc">     Thank you for downloading this app! This app uses language that may be offensive to some users and should only be seen by adults. You can turn offensive language off right now or choose to keep it on.</string>
+    <string name="TurnOffButton">  Turn off Offensive Language  </string>
+    <string name="KeepOnButton">  Keep Offensive Language On  </string>
+    <string name="Nothing">I got nothing&#8230;\n Add a location.</string>
+    <string name="Dash">--</string>
+
+</resources>

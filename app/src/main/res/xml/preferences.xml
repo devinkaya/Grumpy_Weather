@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <CheckBoxPreference android:title="Show Your Location"
+            android:defaultValue="true"
+            android:summary="This option if selected will add your current location to the list of Locations."
+            android:key="ShowLocation"/>
+        <CheckBoxPreference android:title="Notifications"
+            android:defaultValue="true"
+            android:summary="If selected, your current location's weather will be shown as a notification. If you choose to not show your current location, your first location's weather will be shown."
+            android:key="ShowNotification"/>
+        <ListPreference     android:title="Units"
+            android:summary="Which format should your weather info be displayed in?"
+            android:key="Unit"
+            android:defaultValue="0"
+            android:entries="@array/TempArray"
+            android:entryValues="@array/TempValues" />
+        <ListPreference     android:title="Vulgarity"
+            android:summary="Please Choose the Level of Vulgarity you want this app to use"
+            android:key="Vulgar"
+            android:defaultValue="1"
+            android:entries="@array/listArray"
+            android:entryValues="@array/listValues" />
+        <ListPreference     android:title="Forecast Format"
+            android:summary="Please Choose your Language of Choice"
+            android:key="Format"
+            android:defaultValue="1"
+            android:entries="@array/FormatArray"
+            android:entryValues="@array/FormatValues" />
+</PreferenceScreen>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "757079142720",
+    "firebase_url": "https://amkhavasi.firebaseio.com",
+    "project_id": "amkhavasi",
+    "storage_bucket": "amkhavasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757079142720:android:3da09816ea14cdba",
+        "android_client_info": {
+          "package_name": "com.amkdomaini.android.amkhavasi101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757079142720-mirll0pb66h6qn6mojmbq8r4sa1lbad0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_mZn38OVbW-qZSpiuXlUUcH8yBuCjEo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

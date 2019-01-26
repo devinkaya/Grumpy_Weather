@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    >
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+    android:gravity="center_horizontal"
+        android:weightSum="6"
+        android:background="@drawable/square_box"
+        android:clipChildren="false">
+
+    <TextView
+        android:id="@+id/day_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="day"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/time_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="--:--"
+        android:gravity="center_horizontal"/>
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/forecast_iconview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:padding="6dp"
+        android:fontFamily="@font/weather_icons"
+        android:textStyle="normal"
+        android:layout_gravity="center"
+        android:text="B"
+        android:textSize="40dp"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/max_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="--/--"/>
+
+
+</LinearLayout>
+</FrameLayout>

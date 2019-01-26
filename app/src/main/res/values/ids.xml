@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="weather_info_loader_id" type="id"/>
+    <item name="add_city_loader_id" type="id"/>
+    <item name="Activity_Intent_id" type="id"/>
+    <item name="Intent_Return_loader_id" type="id"/>
+</resources>

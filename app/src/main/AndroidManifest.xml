@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amkdomaini.android.amkhavasi101"
+    android:versionCode="2">
+    <uses-sdk
+        android:minSdkVersion="19" />
+    <application
+        android:name=".Controllers.ApplicationContextProvider"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:launchMode="singleTop"
+        >
+        <activity android:name=".Activities.MainActivity"
+            android:theme="@style/NoActionBar"
+            android:configChanges="orientation|keyboardHidden|screenSize|fontScale">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activities.AddCityActivity"
+            android:theme="@style/NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.amkdomaini.android.amkhavasi101.Activities.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Activities.PreferencesActivity"
+            android:label="Settings"
+            android:parentActivityName=".Activities.MainActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.amkdomaini.android.amkhavasi101.Activities.MainActivity" />
+        </activity>
+        <activity android:name=".Activities.SplashScreen"
+            android:theme="@style/NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.amkdomaini.android.amkhavasi101.Activities.MainActivity" />
+        </activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB6BhpqoPbGtKmS7TAYn1-0qUALdl8GfCU"/>
+    <service android:name=".Controllers.WeatherService"/>
+    </application>
+    <uses-permission
+        android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+</manifest>
